@@ -1,0 +1,6 @@
+pandas
+numpy
+seaborn
+flask
+
+#-e. #this will link the requirement file to the setup.py file
